@@ -1,0 +1,41 @@
+body {
+    background-color: #101530; /* Midnight blue */
+  }
+
+  button {
+    background-color: #1b2978; 
+    color: #7396ff;
+    font-size: 25px;
+  }
+
+  button:hover {
+    background-color: #2235a3; 
+    color: #c0d0FF;
+    font-size: 25px;
+    font-weight: bold;
+  }
+  
+  h1 {
+    color: #c0d0FF; /* Very light blue */
+  } 
+
+  h2 {
+    color: #7396ff; /* Very light blue */
+  } 
+
+  p {
+    color: #ffffff; /* Very light blue */
+  }
+  a {
+    color: #90b0FF; /* Very light blue */
+  }
+  
+
+h3 {
+    color: #c0d0ff;
+    font-weight: bold;
+  }
+
+  h4 {
+    color: #c0d0ff;
+  }
